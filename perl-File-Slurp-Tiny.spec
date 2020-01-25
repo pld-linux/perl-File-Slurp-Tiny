@@ -4,7 +4,6 @@
 #
 %define		pdir	File
 %define		pnam	Slurp-Tiny
-%include	/usr/lib/rpm/macros.perl
 Summary:	File::Slurp::Tiny - A simple, sane and efficient file slurper [DISCOURAGED]
 Summary(pl.UTF-8):	File::Slurp::Tiny - prosty, rozsądny i wydajny moduł do wciągania plików [ODRADZANY]
 Name:		perl-File-Slurp-Tiny
