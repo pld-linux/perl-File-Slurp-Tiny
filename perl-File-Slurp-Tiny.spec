@@ -8,7 +8,7 @@ Summary:	File::Slurp::Tiny - A simple, sane and efficient file slurper [DISCOURA
 Summary(pl.UTF-8):	File::Slurp::Tiny - prosty, rozsądny i wydajny moduł do wciągania plików [ODRADZANY]
 Name:		perl-File-Slurp-Tiny
 Version:	0.004
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
